@@ -9,8 +9,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.talkupon.payment.paypal.PayPal;
-import com.talkupon.payment.paypal.PayPalConfig;
+import com.payment.paypal.PayPal;
+import com.payment.paypal.PayPalConfig;
 
 import java.math.BigDecimal;
 

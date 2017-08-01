@@ -1,4 +1,4 @@
-package com.talkupon.payment.paypal;
+package com.payment.paypal;
 
 import com.paypal.android.sdk.payments.PayPalConfiguration;
 
